@@ -1,0 +1,22 @@
+#pragma once
+#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
+#include "command1.h"
+//#include "command1.cpp"
+#include "command2.h"
+//#include "command2.cpp"
+#include "GenerateData.h"
+//#include "GenerateData.cpp"
+#include "showAlgorithm.h"
+//#include "showAlgorithm.cpp"
+#include "writingFile.h"
+//#include "writingFile.cpp"
+#include "number.h"
+//#include "number.cpp"
+#include "sort.h"
+#include <cmath>
+#include <time.h>
+#include <string.h>
+#include <fstream>
+#include <stdio.h>
+using namespace std;
